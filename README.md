@@ -2,7 +2,15 @@
 
 ## Project Description
 
-Created a customer-facing Experience Cloud website for a fictional company. Used all necessary declarative customization, created
+Creating an LWC Experience Cloud site & imperative business solutions leveraging Apex and Experience Cloud. 
+
+- An LWC single-page application containing some feature(s) relevant to the business through Experience Cloud.
+- An Apex class to be used in conjunction with the feature(s).
+- Any additional declarative customization required to support the feature(s).
+- Apex Triggers for the business that meet best practices.
+
+Additionally, provided an implementation of Sales & Service Cloud
+- This implementation should included the unique tools and capabilities of these cloud apps as a part of the orgs implementation. Including Assignment Rules, Auto-Response Rules, Escalation Rules, Campaigns, Products, and Price books.
 
 ## Technologies Used
 
