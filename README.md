@@ -1,25 +1,35 @@
-# PROJECT NAME
+# Project Zero Coffee
 
 ## Project Description
 
-Here goes your awesome project description!
+Created a customer-facing Experience Cloud website for a fictional company. Used all necessary declarative customization, created
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Salesforce
+* Apex 
+* Experience Cloud
+* Declairative Customization
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Service Cloud
+   * Deflections
+   * Customer Support
+   * Chat with Agent
+   * Web-to-Case   
+* Sales Cloud
+   * Products
+   * Price Books
+   * Purchase Orders
+   * Campaigns
+* Apex Triggers and Controllers
+* Lighting Web Component
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Emoluments 
+
 
 ## Getting Started
    
@@ -36,9 +46,9 @@ To-do list:
 
 > Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
-## Contributors
+## Contributor
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+- Jason Schley
 
 ## License
 This project uses the following license: [MIT License](https://choosealicense.com/licenses/mit/).
