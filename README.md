@@ -33,18 +33,21 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+* Git commands:
+  - Git clone
+* Salesforce CLI:
+  - force:source:push
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+![image](https://user-images.githubusercontent.com/92404151/147698716-cf83e513-ac03-479c-9052-c43f16314b36.png)
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+![image](https://user-images.githubusercontent.com/92404151/147698802-a77609fb-fa64-4530-bd94-e96deec4912d.png)
+![image](https://user-images.githubusercontent.com/92404151/147698819-0ae2d8e5-9dc6-4c19-a9ea-53b6079c5e59.png)
+![image](https://user-images.githubusercontent.com/92404151/147698832-0bef2893-a2af-4d36-ae97-4cbaf7703ecc.png)
+![image](https://user-images.githubusercontent.com/92404151/147698845-9bfbca66-4c4f-4975-b671-28195f809400.png)
+![image](https://user-images.githubusercontent.com/92404151/147698867-6a66a201-fcf9-4843-8861-628aea0caa04.png)
+![image](https://user-images.githubusercontent.com/92404151/147698888-53622238-a9de-4b6d-b142-21d1ae286432.png)
 
 ## Contributor
 
